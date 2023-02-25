@@ -13,3 +13,4 @@
 - Better Error Handling
 - Ability to set Bruteforce speeds
 - Show Script Progression/Status
+- Get a better ReadMe Template
