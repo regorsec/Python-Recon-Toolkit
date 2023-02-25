@@ -1,6 +1,6 @@
 <h1>PYTHON RECON TOOLKIT (For Security Engagements) </h1>
 
-<h2> Description: "It ain't much but it's honest work". <h2>
+<h2> Description: The basics you need to start an engagement! - "It ain't much but it's honest work" <h2>
 
 <h3> Features </h3>
 ✅ Port Scanner
