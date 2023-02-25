@@ -1,18 +1,15 @@
-My Project Title
-Hero Image
+<h1>PYTHON RECON TOOLKIT (For Security Engagements) </h1>
 
-PYTHON RECON TOOLKIT (For Security Engagements)
+<h2> Description: "It ain't much but it's honest work". <h2>
 
-Description: "It ain't much but it's honest work".
-
-Features
+<h3> Features </h3>
 ✅ Port Scanner
 ✅ Bruteforce Subdomains
 ✅ Bruteforce Directories
 ✅ Reverse Shell Handler
 ✅ Not unique but quality Wordlists
 
-TO DO:
+<h3>TO DO:</h3>
 - Better Error Handling
 - Ability to set Bruteforce speeds
 - Show Script Progression/Status
